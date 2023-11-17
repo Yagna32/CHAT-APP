@@ -1,0 +1,48 @@
+Created : Fri Nov 17 2023 13:40:40 GMT+0530 (India Standard Time)
+Admin: "yagna has joined!" 
+Time : Fri Nov 17 2023 13:40:4 Users in Room : yagna
+
+yagna: "hello " 
+Time : Fri Nov 17 2023 13:40:4 Users in Room : yagna
+
+Admin: "uu has joined!" 
+Time : Fri Nov 17 2023 13:40:5 Users in Room : yagna, uu
+
+uu: "hello" 
+Time : Fri Nov 17 2023 13:41:0 Users in Room : yagna, uu
+
+yagna: "hello u" 
+Time : Fri Nov 17 2023 13:41:0 Users in Room : yagna, uu
+
+yagna: "how you doing" 
+Time : Fri Nov 17 2023 13:41:0 Users in Room : yagna, uu
+
+uu: "great " 
+Time : Fri Nov 17 2023 13:41:1 Users in Room : yagna, uu
+
+uu: "wbu" 
+Time : Fri Nov 17 2023 13:41:1 Users in Room : yagna, uu
+
+yagna: "same here!" 
+Time : Fri Nov 17 2023 13:41:2 Users in Room : yagna, uu
+
+uu: "nice" 
+Time : Fri Nov 17 2023 13:41:3 Users in Room : yagna, uu
+
+uu: "i gtg " 
+Time : Fri Nov 17 2023 13:41:4 Users in Room : yagna, uu
+
+uu: "bye" 
+Time : Fri Nov 17 2023 13:41:4 Users in Room : yagna, uu
+
+yagna: "bye" 
+Time : Fri Nov 17 2023 13:41:4 Users in Room : yagna, uu
+
+Admin: "uu has left!" 
+Time : Fri Nov 17 2023 13:41:5 Users in Room : yagna
+
+Admin: "yagna has left!" 
+Time : Fri Nov 17 2023 13:41:5 Users in Room : No One
+
+
+Closed : Fri Nov 17 2023 13:41:57 GMT+0530 (India Standard Time)
