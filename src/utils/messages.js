@@ -2,7 +2,7 @@ const generateMessage = (username,text)=>{
     return{
         username,
         text,
-        createdAt : new Date().getTime()
+        createdAt : new Date().getTime(),
     }
 }
 

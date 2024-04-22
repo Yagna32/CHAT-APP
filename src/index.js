@@ -18,7 +18,8 @@ const io = socketio(server)
 port = process.env.PORT || 5000
 const publicDirectoryPath = path.join(__dirname , '../public')
 const mongoURL = process.env.MONGO_URL || "mongodb://127.0.0.1:27017/Chat-App"
-
+const cors = require('cors')
+app.use(cors());
 
 mongoose.connect(mongoURL,
  {
@@ -49,7 +50,7 @@ io.on('connection',(socket)=>{
         if(error){
             return callback(error)
         }
-
+        console.log("inside join")
         socket.join(user.room)
         const wellcome = generateMessage('Admin','Welcome!');
         socket.emit('message' ,wellcome)
